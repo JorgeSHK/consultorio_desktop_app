@@ -1,0 +1,6 @@
+# Archivos y carpetas a ignorar
+*.db
+*.spec
+/build/
+/dist/
+__pycache__/
